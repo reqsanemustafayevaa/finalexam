@@ -1,0 +1,15 @@
+C:\Users\II novbe\Desktop\finalexam\finallyexam\src\finalexam.core\bin\Debug\net6.0\finalexam.core.deps.json
+C:\Users\II novbe\Desktop\finalexam\finallyexam\src\finalexam.core\bin\Debug\net6.0\finalexam.core.dll
+C:\Users\II novbe\Desktop\finalexam\finallyexam\src\finalexam.core\bin\Debug\net6.0\finalexam.core.pdb
+C:\Users\II novbe\Desktop\finalexam\finallyexam\src\finalexam.core\obj\Debug\net6.0\finalexam.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\finalexam\finallyexam\src\finalexam.core\obj\Debug\net6.0\finalexam.core.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\finalexam\finallyexam\src\finalexam.core\obj\Debug\net6.0\finalexam.core.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\finalexam\finallyexam\src\finalexam.core\obj\Debug\net6.0\finalexam.core.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\finalexam\finallyexam\src\finalexam.core\obj\Debug\net6.0\finalexam.core.sourcelink.json
+C:\Users\II novbe\Desktop\finalexam\finallyexam\src\finalexam.core\obj\Debug\net6.0\finalexam.core.dll
+C:\Users\II novbe\Desktop\finalexam\finallyexam\src\finalexam.core\obj\Debug\net6.0\refint\finalexam.core.dll
+C:\Users\II novbe\Desktop\finalexam\finallyexam\src\finalexam.core\obj\Debug\net6.0\finalexam.core.pdb
+C:\Users\II novbe\Desktop\finalexam\finallyexam\src\finalexam.core\obj\Debug\net6.0\ref\finalexam.core.dll
+C:\Users\II novbe\Desktop\finalexam\finallyexam\src\finalexam.core\obj\Debug\net6.0\finalexam.core.csproj.AssemblyReference.cache
+C:\Users\II novbe\Desktop\finalexam\finallyexam\src\finalexam.core\bin\Debug\net6.0\finalexam.core.runtimeconfig.json
+C:\Users\II novbe\Desktop\finalexam\finallyexam\src\finalexam.core\obj\Debug\net6.0\finalexam.core.genruntimeconfig.cache
