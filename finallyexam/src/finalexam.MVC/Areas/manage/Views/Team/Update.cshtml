@@ -1,0 +1,27 @@
+﻿﻿﻿﻿
+@model Team
+<div class="container-fluid">
+    <h1>Update</h1>
+    <form method="post" enctype="multipart/form-data">
+        <div class="mb-3">
+            <label asp-for="FullName" class="form-label">FullName</label>
+            <input asp-for="FullName" class="form-control">
+            <span asp-validation-for="FullName"></span>
+
+        </div>
+        <div class="mb-3">
+            <label asp-for="Profession" class="form-label">Profession</label>
+            <input asp-for="Profession" class="form-control">
+            <span asp-validation-for="Profession"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="ImageFile" class="form-label">Title</label>
+            <input asp-for="ImageFile" class="form-control">
+            <span asp-validation-for="ImageFile"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Create</button>
+    </form>
+</div>
+

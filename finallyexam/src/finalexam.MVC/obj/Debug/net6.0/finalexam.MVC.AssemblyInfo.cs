@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("finalexam.MVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8aca335bce62295c6f2dfbeca341bd2a073bc35b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f887d5383e3aa14882d8bfcbf80ba3d5104d2711")]
 [assembly: System.Reflection.AssemblyProductAttribute("finalexam.MVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("finalexam.MVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

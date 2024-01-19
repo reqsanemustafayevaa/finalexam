@@ -96,7 +96,7 @@ namespace finalexam.business.Services.Implementations
                 {
                     throw new InvalidImageSizeExceptiion("ImageFile", "file must be lower than 2mb!");
                 }
-                Helper.DeleteFile(_env.WebRootPath, "uploads/teams", team.ImageUrl);
+                Helper.DeleteFile(_env.WebRootPath, "uploads/teams", existteam.ImageUrl);
                 existteam.ImageUrl = team.ImageFile.SaveFille(_env.WebRootPath, "uploads/teams");
 
             }
